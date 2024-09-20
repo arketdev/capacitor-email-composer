@@ -1,6 +1,6 @@
 {
   "name": "capacitor-email-composer",
-  "version": "6.0.0",
+  "version": "6.1.2",
   "description": "E-Mail Composer Plugin for Capacitor",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -47,11 +47,11 @@
     "check:updates": "npm-check-updates"
   },
   "devDependencies": {
-    "@capacitor/android": "^6.0.0",
-    "@capacitor/cli": "^6.0.0",
-    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
     "@capacitor/docgen": "0.2.2",
-    "@capacitor/ios": "^6.0.0",
+    "@capacitor/ios": "^6.1.2",
     "@commitlint/config-conventional": "19.2.2",
     "@ionic/eslint-config": "0.3.0",
     "@ionic/prettier-config": "4.0.0",
@@ -74,10 +74,10 @@
     "rollup": "4.14.3",
     "semantic-release": "23.0.8",
     "swiftlint": "1.0.2",
-    "typescript": "5.4.5"
+    "typescript": "5.4"
   },
   "peerDependencies": {
-    "@capacitor/core": "^6.0.0"
+    "@capacitor/core": "^6.1.2"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
